@@ -4,5 +4,5 @@ We have three option of scan in this script:
 2) UDP SCAN
 3) Comprehensive SCAN
 
-### Usage : python3 Basic_Nmap_Scanner.py
-### Under this you will be asked for IP address and the three different scan options
+#### Usage : python3 Basic_Nmap_Scanner.py
+#### Under this you will be asked for IP address and the three different scan options
